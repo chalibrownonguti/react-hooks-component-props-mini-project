@@ -1,11 +1,11 @@
-import React from 'react'
+import React from "react";
 
 function Header(props) {
-    return (
-      <header>
-        <h1>{props.name}</h1>
-      </header>
-    );
-  }
+return (
+<header>
+<h1>{props.name}</h1>
+</header>
+);
+}
 
-export default Header
+export default Header;
